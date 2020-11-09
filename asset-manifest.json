@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/mbta/static/js/main.cdb14f5c.chunk.js",
+    "main.js.map": "/mbta/static/js/main.cdb14f5c.chunk.js.map",
+    "runtime-main.js": "/mbta/static/js/runtime-main.d3302782.js",
+    "runtime-main.js.map": "/mbta/static/js/runtime-main.d3302782.js.map",
+    "static/js/2.854ce245.chunk.js": "/mbta/static/js/2.854ce245.chunk.js",
+    "static/js/2.854ce245.chunk.js.map": "/mbta/static/js/2.854ce245.chunk.js.map",
+    "index.html": "/mbta/index.html",
+    "static/js/2.854ce245.chunk.js.LICENSE.txt": "/mbta/static/js/2.854ce245.chunk.js.LICENSE.txt",
+    "static/media/instruction_1.77bdc7c6.png": "/mbta/static/media/instruction_1.77bdc7c6.png",
+    "static/media/instruction_2.950ba95d.png": "/mbta/static/media/instruction_2.950ba95d.png",
+    "static/media/logo.0663db85.png": "/mbta/static/media/logo.0663db85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3302782.js",
+    "static/js/2.854ce245.chunk.js",
+    "static/js/main.cdb14f5c.chunk.js"
+  ]
+}
